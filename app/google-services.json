@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98748253380",
+    "project_id": "examtrainer-61576",
+    "storage_bucket": "examtrainer-61576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98748253380:android:4cefd944be8381de01f591",
+        "android_client_info": {
+          "package_name": "com.example.mocktrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98748253380-nahp7pjn17koldmk0005qghre7023uv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mocktrainer",
+            "certificate_hash": "976e55f670e399cd4cff8b6a902acd34809564a7"
+          }
+        },
+        {
+          "client_id": "98748253380-1df53lraijam3et2a9n2690ts3nonfcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIzWOcKNz548REd7E9CM8n-AO4GrOFZYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98748253380-1df53lraijam3et2a9n2690ts3nonfcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
